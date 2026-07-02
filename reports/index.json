@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260630-200017-wzd5",
+      "title": "Leo Stole My Heart",
+      "commanders": [
+        "Leo Stole My Heart"
+      ],
+      "dateStart": "2026-07-01T01:00:17.000Z",
+      "dateEnd": "2026-07-01T02:11:24.000Z",
+      "dateLabel": "6/30/2026, 8:00:17 PM - 6/30/2026, 9:11:24 PM",
+      "url": "https://leodxd551.github.io/leo/?report=20260630-200017-wzd5",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 16,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260513-194451-9qoz",
       "title": "Leo Stole My Heart",
       "commanders": [
