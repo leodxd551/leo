@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260728-200838-01eg",
+      "title": "Leo Stole My Heart",
+      "commanders": [
+        "Leo Stole My Heart"
+      ],
+      "dateStart": "2026-07-29T01:08:38.000Z",
+      "dateEnd": "2026-07-29T02:21:23.000Z",
+      "dateLabel": "7/28/2026, 8:08:38 PM - 7/28/2026, 9:21:23 PM",
+      "url": "https://leodxd551.github.io/leo/?report=20260728-200838-01eg",
+      "summary": {
+        "borderlandsPct": 0.9523809523809523,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 13,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 7,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260707-210555-60ee",
       "title": "Leo Stole My Heart",
       "commanders": [
